@@ -16,7 +16,6 @@ public class ex2 {
             String line;
             String secventaFinala="la";
 
-            //citim fiecare linie din fisier
             while(scanner.hasNextLine()){
                 line= scanner.nextLine();
                 float NR_random= rand.nextFloat();
@@ -26,11 +25,8 @@ public class ex2 {
                     line=line.toUpperCase();
                 }
 
-                //calculam nr de cuvinte
                 String[] cuvinte = line.split(" ");
                 int numar_cuvinte=cuvinte.length;
-
-                //nr de vocale
 
                 String vocale="aeiouAEIOU";
                 int numar_vocale=0;
