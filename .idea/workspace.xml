@@ -1,18 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="bbc76ac6-a4d6-4511-8926-67d1e0d428c6" name="Changes" comment="" />
+    <list default="true" id="bbc76ac6-a4d6-4511-8926-67d1e0d428c6" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Problema2/cantec_in.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Problema2/ex2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cantec_out.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/problema1/ex1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/problema4/ex4.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 2
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
   <component name="ProjectId" id="2n6wh78sOEBdNimGXqFZBpjRP78" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -21,9 +44,17 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.ex1.executor": "Run",
+    "Application.ex2.executor": "Run",
+    "Application.ex3.executor": "Run",
+    "Application.ex4.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "onboarding.tips.debug.path": "C:/Users/paul_/OneDrive/Documente/Faculta/Anul3/Programare Java/Lab2/src/Main.java",
     "vue.rearranger.settings.migration": "true"
@@ -45,7 +76,11 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1728306956403</updated>
-      <workItem from="1728306957347" duration="2000" />
+      <workItem from="1728306957347" duration="4655000" />
+      <workItem from="1728891434165" duration="449000" />
+      <workItem from="1728891924051" duration="1284000" />
+      <workItem from="1729454498532" duration="3122000" />
+      <workItem from="1729458158092" duration="3394000" />
     </task>
     <servers />
   </component>
